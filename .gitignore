@@ -36,3 +36,5 @@ README.html
 /gradle/
 /.mvn/
 /target/
+/.mvn/
+/gradle/
